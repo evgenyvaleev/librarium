@@ -47,3 +47,6 @@ crontab -l | grep -v '^#' | cut -f 6- -d ' ' | while read CMD; do eval $CMD; don
 
 ## Health
 * [The Science of How to Build Muscle](https://www.julian.com/guide/muscle/intro)
+
+### Mental Health
+* [How I cured my tech fatigue by ditching feeds](https://techcrunch.com/2017/10/28/how-i-cured-my-tech-fatigue-by-ditching-feeds/) [[HN](https://news.ycombinator.com/item?id=15578019)]
