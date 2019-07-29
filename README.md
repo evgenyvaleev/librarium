@@ -36,6 +36,14 @@
 * [TypeScript](https://www.typescriptlang.org/docs/home.html) - official docs
 * [Design patterns in typescript](http://torokmark.github.io/design_patterns_in_typescript/)
 
+### React
+* [React](https://reactjs.org/docs/getting-started.html) - official docs
+* [React Router](https://reacttraining.com/react-router/web/guides/quick-start) - official tutorial
+
+### Redux
+* [Redux](https://redux.js.org/introduction/getting-started) - official docs
+* [Redux Saga](https://redux-saga.js.org/) - official docs
+
 ## Security
 * [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki.html)
 
