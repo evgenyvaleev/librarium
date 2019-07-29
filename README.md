@@ -27,6 +27,14 @@
 * [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
 * [Cybertec PostgreSQL Configurator](http://pgconfigurator.cybertec.at/)
 
+## .NET
+### C#
+* Albahari J., Albahari B. - C# 7.0 in a Nutshell: The Definitive Reference
+* Skeet J. - C# in Depth
+* Richter J. - CLR via C#
+* Seemann M. - Dependency Injection in .NET
+* Osherove R. - The Art of Unit Testing
+
 ## Frontend
 ### JavaScript
 * [Kyle Simpson - You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)<br>
