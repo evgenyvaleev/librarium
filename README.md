@@ -33,6 +33,7 @@
 * [JavaScript Coercions Grid](https://getify.github.io/coercions-grid/) :see_no_evil:
 
 ### TypeScript
+* [TypeScript](https://www.typescriptlang.org/docs/home.html) - official docs
 * [Design patterns in typescript](http://torokmark.github.io/design_patterns_in_typescript/)
 
 ## Security
