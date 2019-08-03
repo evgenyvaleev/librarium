@@ -52,6 +52,9 @@
 * [Redux](https://redux.js.org/introduction/getting-started) - official docs
 * [Redux Saga](https://redux-saga.js.org/) - official docs
 
+## Web
+* [HTTP codes](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
+
 ## Security
 * [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki.html)
 
