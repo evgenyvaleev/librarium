@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/evgenyvaleev/librarium/blob/master/img/logo.png">
+  <img src="img/logo.png">
 </p>
 
 <p align="center">
@@ -8,13 +8,53 @@
 
 ***
 
+## Table of Contents
+
+- [Fundamentals](#fundamentals)
+  - [Computer Science](#computer-science)
+  - [Algorithms & Data structures](#algorithms--data-structures)
+  - [Architecture](#architecture)
+  - [Other](#other)
+- [Databases](#databases)
+  - [MSSQL](#mssql)
+  - [PostgreSQL](#postgresql)
+- [.NET](#net)
+  - [C\#](#c-1)
+- [Frontend](#frontend)
+  - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
+  - [React](#react)
+  - [Redux](#redux)
+- [Web](#web)
+- [Security](#security)
+- [Snippets](#snippets)
+  - [cron](#cron)
+- [Health](#health)
+  - [Mental Health](#mental-health)
+
 ## Fundamentals
+
+### Computer Science
+
+- :book: Abelson H. - Structure and Interpretation of Computer Programs
+
 ### Algorithms & Data structures
-* Aditya Y. Bhargava - Grokking Algorithms. An Illustrated Guide For Programmers and Other Curious People<br>
-* Robert Sedgewick - Algorithms<br>
-* Thomas H. Cormen - Introduction to Algorithms<br>
-* Freeman E. - Head First Design Patterns<br>
-* GoF - Design Patterns: Elements of Reusable Object-Oriented Software
+
+- :book: Bhargava A. - Grokking Algorithms. An Illustrated Guide For Programmers and Other Curious People
+- :book: Sedgewick R. - Algorithms
+- :book: Cormen T. - Introduction to Algorithms
+- :book: Freeman E. - Head First Design Patterns
+- :book: GoF - Design Patterns: Elements of Reusable Object-Oriented Software
+
+### Architecture
+
+- :book: Avram A., Marinescu F. - DDD Quickly
+- [Event Sourcing](https://arkwright.github.io/event-sourcing.html) - an introduction to event sourcing by arkwright
+
+### Other
+
+- [Semantic Versioning](https://semver.org/)
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 ## Databases
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)<br>
@@ -28,7 +68,9 @@
 * [Cybertec PostgreSQL Configurator](http://pgconfigurator.cybertec.at/)
 
 ## .NET
-### C#
+
+### C\#
+
 * Albahari J., Albahari B. - C# 7.0 in a Nutshell: The Definitive Reference
 * Skeet J. - C# in Depth
 * Richter J. - CLR via C#
